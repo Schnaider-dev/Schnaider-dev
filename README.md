@@ -1,10 +1,12 @@
-<img width="448" height="2268" alt="image" src="https://github.com/user-attachments/assets/9fbdba5f-32e0-49f9-848e-d3882aaa8e52" />Hi there 👋, I'm Jean Louis Schnaider
-Full-Stack Developer | Backend Development Enthusiast | Lifelong Learner
-I am a software developer from Port-au-Prince, Haiti 🇭🇹 with a passion for building modern web applications and continuously improving my technical skills.
+Hi there 👋, I'm Jean Schnaider (Nai)
+Full-Stack Developer | Software Development Enthusiast
+I am a software developer from Port-au-Prince, Haiti 🇭🇹 who enjoys building web applications, solving technical problems, and continuously learning new technologies.
 
-I graduated from BYU-Idaho through BYU-Pathway Worldwide with a Certificate in Web & Computer Programming. My primary focus is on the Microsoft ecosystem, particularly C#, ASP.NET Core, Blazor, and Entity Framework Core, while also exploring modern frontend technologies such as React and Next.js.
+I hold certificates in both Web & Computer Programming and Web Programming through BYU-Idaho and BYU-Pathway Worldwide.
 
-I enjoy solving challenging technical problems, learning how things work under the hood, and creating software that delivers real value.
+While I have spent significant time working with C#, ASP.NET Core, Blazor, and Entity Framework Core, I am equally enthusiastic about JavaScript, Node.js, and modern web development. Recently, I have also been exploring Java and C++, which have given me a broader perspective on software engineering and programming paradigms.
+
+I enjoy understanding how technologies work under the hood and applying that knowledge to create maintainable and meaningful software.
 
 🚀 About Me
 🎓 BYU-Idaho Web & Computer Programming Graduate
@@ -18,17 +20,32 @@ I enjoy solving challenging technical problems, learning how things work under t
 🛠️ Technologies & Tools
 
 Languages
-C# | JavaScript | TypeScript | SQL | C++ | Java
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 Backend
-.NET | ASP.NET Core | Entity Framework Core 
-Node.js | Express.js | Next.js
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 Frontend
-Blazor | React | Next.js
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 
 Tools
-Git | GitHub | VS Code
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 📂 Featured Projects
 🔹 E-Commerce API
