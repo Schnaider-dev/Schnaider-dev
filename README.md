@@ -1,4 +1,4 @@
-Hi there 👋, I'm Jean Schnaider (Nai)
+Hi there 👋, I'm Jean Schnaider
 Full-Stack Developer | Software Development Enthusiast
 I am a software developer from Port-au-Prince, Haiti 🇭🇹 who enjoys building web applications, solving technical problems, and continuously learning new technologies.
 
@@ -10,6 +10,7 @@ I enjoy understanding how technologies work under the hood and applying that kno
 
 🚀 About Me
 🎓 BYU-Idaho Web & Computer Programming Graduate
+🎓 BYU-Idaho Web Programming Graduate
 💻 Full-Stack Web Developer
 🌍 Based in Port-au-Prince, Haiti
 🔭 Currently improving my skills in ASP.NET Core, Blazor, and Software Architecture
